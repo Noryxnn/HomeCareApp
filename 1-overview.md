@@ -1,6 +1,6 @@
 **Mobile Development 2024/25 Portfolio**
 # Overview
 
-Student ID: `your id here`
+Student ID: `c23015158`
 
-_Complete the information above and then write your 200-word overview below. You can delete this line.__
+HomeCare is the name chosen for the Android app that will be designed to help students, young adults and whoever is in need to manage their apartment responsibilities more effectively. It combines two key functionalities: an Apartment Maintenance Manager and a Grocery Tracker, providing users with a centralized platform to organize daily living tasks. The Maintenance Manager allows users to add, edit, and categorize tasks such as cleaning, rent, or repairs. Tasks can be set as one-time or recurring, and users can attach photos for example leaks or receipts for better tracking. Reminder notifications keep users informed of upcoming or overdue tasks. The Grocery Tracker simplifies shopping by letting users add and categorize items, mark them as bought, and store the list persistently using local storage. The app also includes optional features like daily check-in reminders and plans for future calendar integration. I chose to develop HomeCare because managing shared apartments can often be chaotic, especially for students. By providing structure and timely reminders, HomeCare supports independence and routine. 
