@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/maintenanceFragment">
+
+    <fragment
+        android:id="@+id/maintenanceFragment"
+        android:name="com.example.homecare.ui.maintenance.MaintenanceFragment"
+        android:label="@string/title_maintenance" />
+
+    <fragment
+        android:id="@+id/groceryFragment"
+        android:name="com.example.homecare.ui.grocery.GroceryFragment"
+        android:label="@string/title_grocery" />
+
+    <fragment
+        android:id="@+id/billsFragment"
+        android:name="com.example.homecare.ui.bills.BillFragment"
+        android:label="@string/title_bills" />
+
+</navigation> 

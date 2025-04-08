@@ -1,3 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">mob-dev-portfolio</string>
+    <string name="app_name">HomeCare</string>
+    <string name="title_maintenance">Maintenance</string>
+    <string name="title_grocery">Grocery</string>
+    <string name="title_bills">Bills</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_bill">Add Bill</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_category">Category</string>
+    <string name="mark_bought">Mark as Bought</string>
+    <string name="mark_paid">Mark as Paid</string>
+    <string name="bill_amount">Amount</string>
+    <string name="bill_name">Bill Name</string>
+    <string name="bill_due_date">Due Date</string>
+    <string name="bill_paid">Paid</string>
+    <string name="bill_unpaid">Unpaid</string>
+    <string name="notification_channel_name">HomeCare Notifications</string>
+    <string name="notification_channel_description">Notifications for maintenance tasks and bills</string>
+    <string name="task_due_notification_title">Task Due</string>
+    <string name="task_due_notification_text">%1$s is due today</string>
+    <string name="bill_due_notification_title">Bill Due</string>
+    <string name="bill_due_notification_text">%1$s is due today</string>
 </resources>
